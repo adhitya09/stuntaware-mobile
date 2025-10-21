@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414385050596",
+    "project_id": "stuntaware-65c76",
+    "storage_bucket": "stuntaware-65c76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414385050596:android:886f9bd86e32428cf12df1",
+        "android_client_info": {
+          "package_name": "com.example.stuntaware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDBr75nyTGHJEfRCe4oKrZ2-xPW6wYIms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

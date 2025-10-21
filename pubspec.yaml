@@ -1,0 +1,35 @@
+name: stuntaware
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.3.0 <4.0.0"
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.1.0
+  firebase_auth: ^6.0.2
+  cloud_firestore: ^6.0.1
+  animate_do: ^4.2.0
+  intl: ^0.20.1
+  fluttertoast: ^8.2.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/images/clock.png
+   - assets/images/logo.png
+   - assets/images/a1.jpg
+   - assets/images/a2.jpeg
+   - assets/images/a3.jpeg
